@@ -20,8 +20,7 @@
       <div style="margin-top: 30px;">
         <img src="AIネックレス.png" alt="AIネックレス" style="max-width: 300px; border-radius: 10px;">
       </div>
-      <div style="font-size: 24px; margin-top: 20px;">AIネックレス - 音声で操作できるウェアラブルデバイス</div>
-    </div>
+          </div>
   </div>
 </div>
 
