@@ -29,7 +29,7 @@
 <div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
-      <div style="font-size: 48px; font-weight: bold; margin-bottom: 50px;">できること</div>
+      <div style="font-size: 32px; margin-bottom: 30px;">できること</div>
       <div style="font-size: 28px; text-align: left; line-height: 2;">
         🎤 音声会話 - 音声でAIに指示・質問し自然な会話が可能<br>
         🔍 情報検索 - 知りたいことをすぐに音声で回答<br>
