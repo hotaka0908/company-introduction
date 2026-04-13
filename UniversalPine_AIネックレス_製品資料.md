@@ -1,6 +1,4 @@
-# AIネックレス 製品ロードマップ資料
-
-**Universal Pine株式会社**
+# Universal Pine株式会社
 
 ---
 
