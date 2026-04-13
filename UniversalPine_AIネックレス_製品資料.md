@@ -98,7 +98,7 @@
 
 **株式会社Universal Pine**
 - Web: https://universalpine.com
-- お問い合わせ: Webサイトのフォームより
+- mail: ho@universalpine.com
 
 ---
 
