@@ -26,20 +26,20 @@
 
 <div style="page-break-after: always;"></div>
 
-## 主な機能
+<div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
+      <div style="font-size: 48px; font-weight: bold; margin-bottom: 50px;">できること</div>
+      <div style="font-size: 28px; text-align: left; line-height: 2;">
+        🎤 音声会話 - 音声でAIに指示・質問し自然な会話が可能<br>
+        🔍 情報検索 - 知りたいことをすぐに音声で回答<br>
+        📝 メモ・リマインダー - 声で記録、必要なときに通知
+      </div>
+    </div>
+  </div>
+</div>
 
-| 機能 | 説明 |
-|------|------|
-| 🎤 音声会話 | 音声でAIに指示・質問し自然な会話が可能 |
-| 🔍 情報検索 | 知りたいことをすぐに音声で回答 |
-| 📝 メモ・リマインダー | 声で記録、必要なときに通知 |
-
-### ターゲットユーザー
-- 一般消費者
-- 日常的にAIを活用したい方
-- ハンズフリーで情報にアクセスしたい方
-
----
+<div style="page-break-after: always;"></div>
 
 ## 開発状況
 
