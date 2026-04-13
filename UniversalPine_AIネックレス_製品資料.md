@@ -44,6 +44,23 @@
 <div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 30px;">例えばこんなこと</div>
+      <div style="font-size: 28px; text-align: left; line-height: 2.2;">
+        「今日の予定は？」→ スケジュール確認<br>
+        「〇〇について教えて」→ 何でも回答<br>
+        「これ覚えておいて」→ メモを記録<br>
+        「メール書いて」→ 文章作成<br>
+        「英語で何て言う？」→ 翻訳
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="page-break-after: always;"></div>
+
+<div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 30px;">開発状況</div>
       <div style="font-size: 36px; font-weight: bold; margin-bottom: 40px; font-family: monospace;">
         [██████████████░░░░░░] 70%
