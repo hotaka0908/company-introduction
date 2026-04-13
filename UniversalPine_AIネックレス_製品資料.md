@@ -14,13 +14,11 @@
 
 <div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <div style="display: flex; align-items: center; gap: 60px;">
-      <div style="text-align: left;">
-        <div style="font-size: 28px; margin-bottom: 15px; color: #666;">やっていること</div>
-        <div style="font-size: 42px; font-weight: bold; line-height: 1.4;">ハードとソフトを統合した<br>AIネックレスを開発中</div>
-      </div>
+    <div style="text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 20px;">やっていること</div>
+      <div style="font-size: 40px; font-weight: bold; margin-bottom: 30px;">ハードとソフトを統合したAIネックレスを開発中</div>
       <div>
-        <img src="AIネックレス.png" alt="AIネックレス" style="width: 280px; border-radius: 10px;">
+        <img src="AIネックレス.png" alt="AIネックレス" style="max-width: 400px; border-radius: 10px;">
       </div>
     </div>
   </div>
