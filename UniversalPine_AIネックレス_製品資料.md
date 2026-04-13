@@ -44,7 +44,7 @@
 <div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
-      <div style="font-size: 32px; margin-bottom: 30px;">例えばこんなこと</div>
+      <div style="font-size: 32px; margin-bottom: 30px;">例 金田自動車さんの場合</div>
       <div style="font-size: 26px; text-align: left; line-height: 2.2;">
         「この警告灯の意味は？」→ 故障診断をサポート<br>
         「〇〇の交換手順を教えて」→ 整備手順を音声で案内<br>
