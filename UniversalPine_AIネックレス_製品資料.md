@@ -33,7 +33,7 @@
       <div style="font-size: 56px; font-weight: bold; margin-bottom: 40px;">「AIに話すだけで何でもできる」</div>
       <div style="font-size: 32px; line-height: 1.8;">
         あなたの言葉を理解し、<br>
-        考え、答え、実行する。<br><br>
+        AIが考え、答え、実行する。<br><br>
         いつでもそばにいるAIパートナー
       </div>
     </div>
