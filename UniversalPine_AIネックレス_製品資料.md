@@ -50,8 +50,8 @@
       </div>
       <div style="font-size: 24px; text-align: left; line-height: 2.2;">
         ✅ プロトタイプ開発 - 2026年2月 完了<br>
-        <strong>🔄 製品開発・テスト - 2026年4月 進行中</strong><br>
-        📅 販売開始 - 2026年6月 予定
+        <strong>・製品開発・テスト - 2026年4月 進行中</strong><br>
+        ・販売開始 - 2026年6月 予定
       </div>
     </div>
   </div>
