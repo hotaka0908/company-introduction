@@ -12,20 +12,25 @@
 
 <div style="page-break-after: always;"></div>
 
-## やっていること
+<div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
+  <div style="position: absolute; top: 0; left: 0; font-size: 32px; font-weight: bold;">
+    株式会社Universal Pine
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 20px;">やっていること</div>
+      <div style="font-size: 48px; font-weight: bold; margin-bottom: 40px;">人々がAIを持ち歩く生活を実現するため<br>ハードとソフトを統合したAIネックレスを開発</div>
+      <div style="margin-top: 30px;">
+        <img src="https://universalpine.com/images/device2.jpg" alt="AIネックレス" style="max-width: 300px; border-radius: 10px;">
+      </div>
+      <div style="font-size: 24px; margin-top: 20px;">AIネックレス - 音声で操作できるウェアラブルデバイス</div>
+    </div>
+  </div>
+</div>
 
-人々がAIを持ち歩く生活を実現するため、ハードとソフトを統合したAIネックレスを開発しています。
+<div style="page-break-after: always;"></div>
 
----
-
-## 製品概要：AIネックレス
-
-### コンセプト
-「いつでもそばにいるAIパートナー」
-
-日常生活に自然に溶け込む、音声操作型ウェアラブルAIデバイスです。話しかけるだけでAIがサポートします。
-
-### 主な機能
+## 主な機能
 
 | 機能 | 説明 |
 |------|------|
