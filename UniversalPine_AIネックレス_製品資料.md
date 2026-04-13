@@ -46,7 +46,7 @@
     <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 30px;">実用例</div>
       <div style="font-size: 24px; text-align: left; line-height: 2.0;">
-        「今日の予定は？」→ カレンダーからスケジュールを確認<br>
+        「今日の予定は？」→ スケジュールを確認し応答<br>
         「〇〇について教えて」→ 知りたい情報をすぐに検索<br>
         「これ覚えておいて」→ メモを記録、リマインダー設定<br>
         「メール返信しといて」→ 文章を送信しカレンダーに予定追加<br>
