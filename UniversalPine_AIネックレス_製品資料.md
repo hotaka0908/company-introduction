@@ -100,7 +100,4 @@
 - Web: https://universalpine.com
 - mail: ho@universalpine.com
 
----
-
-*本資料の内容は2026年4月時点の情報です。開発状況により変更となる場合があります。*
 
