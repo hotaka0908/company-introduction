@@ -50,7 +50,7 @@
         「〇〇の交換手順を教えて」→ 整備手順を音声で案内<br>
         「トルク値はいくつ？」→ 仕様情報をすぐに回答<br>
         「〇〇を日本語で何て言う？」→ 専門用語を翻訳<br>
-        「ブレーキの仕組みを説明して」→ 技術知識を学習
+        「ブレーキの仕組みを説明して」→ 技術知識を回答
       </div>
       <div style="font-size: 22px; text-align: left; line-height: 1.8; margin-top: 40px; border-top: 1px solid #ccc; padding-top: 20px;">
         【AI応答の仕組み】<br>
