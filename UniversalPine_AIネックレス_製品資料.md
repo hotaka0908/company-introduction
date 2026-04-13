@@ -13,9 +13,6 @@
 <div style="page-break-after: always;"></div>
 
 <div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
-  <div style="position: absolute; top: 0; left: 0; font-size: 32px; font-weight: bold;">
-    株式会社Universal Pine
-  </div>
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 20px;">やっていること</div>
