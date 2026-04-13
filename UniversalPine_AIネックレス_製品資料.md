@@ -62,6 +62,25 @@
 <div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 30px;">今後の方針</div>
+      <div style="font-size: 28px; text-align: left; line-height: 2.2;">
+        【販売計画】<br>
+        ・初期展開：1,000台からスタート<br>
+        ・中期目標：10,000台へ拡大<br>
+        ・長期目標：100万台規模の量産体制<br>
+        <br>
+        【ターゲット】<br>
+        ・一般消費者向けに展開
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="page-break-after: always;"></div>
+
+<div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 30px;">会社概要</div>
       <div style="font-size: 28px; text-align: left; line-height: 2.2;">
         会社名：株式会社Universal Pine<br>
