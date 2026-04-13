@@ -16,7 +16,7 @@
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 20px;">やっていること</div>
-      <div style="font-size: 32px; font-weight: bold; margin-bottom: 40px;">ハードとソフトを統合したAIネックレスを開発</div>
+      <div style="font-size: 32px; font-weight: bold; margin-bottom: 40px;">ハードとソフトを統合したAIネックレスを開発中</div>
       <div style="margin-top: 30px;">
         <img src="AIネックレス.png" alt="AIネックレス" style="max-width: 300px; border-radius: 10px;">
       </div>
