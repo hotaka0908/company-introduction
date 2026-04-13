@@ -1,10 +1,10 @@
 <div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
-  <div style="position: absolute; top: 0; left: 0; font-size: 18px; font-weight: bold;">
+  <div style="position: absolute; top: 0; left: 0; font-size: 32px; font-weight: bold;">
     株式会社Universal Pine
   </div>
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
-      <div style="font-size: 14px; margin-bottom: 10px;">ミッション</div>
+      <div style="font-size: 28px; margin-bottom: 20px;">ミッション</div>
       <div style="font-size: 72px; font-weight: bold;">「人々の生活をより良くする」</div>
     </div>
   </div>
