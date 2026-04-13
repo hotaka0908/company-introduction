@@ -1,4 +1,4 @@
-# Universal Pine株式会社
+# 株式会社Universal Pine
 
 ---
 
@@ -87,7 +87,7 @@
 
 | 項目 | 内容 |
 |------|------|
-| 会社名 | Universal Pine株式会社 |
+| 会社名 | 株式会社Universal Pine |
 | 所在地 | 東京都世田谷区下馬1-19-5 |
 | Webサイト | https://universalpine.com |
 
@@ -97,7 +97,7 @@
 
 製品に関するお問い合わせ、取材・提携のご相談は下記よりお願いいたします。
 
-**Universal Pine株式会社**
+**株式会社Universal Pine**
 - Web: https://universalpine.com
 - お問い合わせ: Webサイトのフォームより
 
