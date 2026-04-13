@@ -5,7 +5,7 @@
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
       <div style="font-size: 14px; margin-bottom: 10px;">ミッション</div>
-      <div style="font-size: 48px; font-weight: bold;">「人々の生活をより良くする」</div>
+      <div style="font-size: 72px; font-weight: bold;">「人々の生活をより良くする」</div>
     </div>
   </div>
 </div>
