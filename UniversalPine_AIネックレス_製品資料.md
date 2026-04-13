@@ -59,21 +59,19 @@
 
 <div style="page-break-after: always;"></div>
 
-## 会社概要
-
-| 項目 | 内容 |
-|------|------|
-| 会社名 | 株式会社Universal Pine |
-| 代表取締役 | 船橋穂天 |
-| 所在地 | 東京都世田谷区下馬1-19-5 |
-| Webサイト | https://universalpine.com |
-
----
-
-## お問い合わせ
-
-**株式会社Universal Pine**
-- Web: https://universalpine.com
-- mail: ho@universalpine.com
+<div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 30px;">会社概要</div>
+      <div style="font-size: 28px; text-align: left; line-height: 2.2;">
+        会社名：株式会社Universal Pine<br>
+        代表取締役：船橋穂天<br>
+        所在地：東京都世田谷区下馬1-19-5<br>
+        Web：https://universalpine.com<br>
+        mail：ho@universalpine.com
+      </div>
+    </div>
+  </div>
+</div>
 
 
