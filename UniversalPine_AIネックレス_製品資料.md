@@ -65,8 +65,8 @@
     <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 30px;">例 金田自動車さんの場合</div>
       <div style="font-size: 26px; text-align: left; line-height: 2.2;">
-        「この警告灯の意味は？」→ カメラで認識し、原因と対処法を回答<br>
         「〇〇の交換手順を教えて」→ 整備手順を音声で案内<br>
+        「この警告灯の意味は？」→ カメラで認識し、原因と対処法を回答<br>
         「トルク値はいくつ？」→ 仕様情報をすぐに回答<br>
         「〇〇を英語で何て言う？」→ 専門用語を母国語に翻訳<br>
         「ブレーキの仕組みを説明して」→ 技術知識を回答
