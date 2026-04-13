@@ -6,7 +6,7 @@
 
 **「人々の生活をより良くする」**
 
----
+<div style="page-break-after: always;"></div>
 
 ## やっていること
 
