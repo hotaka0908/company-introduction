@@ -41,23 +41,25 @@
 
 <div style="page-break-after: always;"></div>
 
-## 開発状況
+<div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 30px;">開発状況</div>
+      <div style="font-size: 36px; font-weight: bold; margin-bottom: 40px; font-family: monospace;">
+        [████████████░░░░░░░░] 60%
+      </div>
+      <div style="font-size: 24px; text-align: left; line-height: 2.2;">
+        ✅ 企画・設計 - 2025年 完了<br>
+        ✅ プロトタイプ開発 - 2025年 完了<br>
+        🔄 製品開発・テスト - 2025年〜2026年 進行中<br>
+        ⏳ 量産準備 - 2026年前半 予定<br>
+        📅 <strong>販売開始 - 2026年6月 予定</strong>
+      </div>
+    </div>
+  </div>
+</div>
 
-### 現在のステータス
-
-```
-[████████████░░░░░░░░] 60% - 開発中
-```
-
-| フェーズ | 状況 | 時期 |
-|---------|------|------|
-| 企画・設計 | ✅ 完了 | 2025年 |
-| プロトタイプ開発 | ✅ 完了 | 2025年 |
-| 製品開発・テスト | 🔄 進行中 | 2025年〜2026年 |
-| 量産準備 | ⏳ 予定 | 2026年前半 |
-| **販売開始** | 📅 予定 | **2026年6月** |
-
----
+<div style="page-break-after: always;"></div>
 
 ## 今後の展望・ロードマップ
 
