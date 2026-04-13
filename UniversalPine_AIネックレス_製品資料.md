@@ -96,8 +96,6 @@
 
 ## お問い合わせ
 
-製品に関するお問い合わせ、取材・提携のご相談は下記よりお願いいたします。
-
 **株式会社Universal Pine**
 - Web: https://universalpine.com
 - お問い合わせ: Webサイトのフォームより
