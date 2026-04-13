@@ -45,13 +45,15 @@
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 30px;">実用例</div>
-      <div style="font-size: 26px; text-align: left; line-height: 2.2;">
-        「今日の予定は？」→ スケジュールを確認<br>
-        「〇〇について教えて」→ 知りたい情報を検索<br>
-        「これ覚えておいて」→ メモを記録<br>
-        「メール書いて」→ 文章を作成<br>
-        「英語で何て言う？」→ 翻訳<br>
-        「電気消して」→ スマートホームを操作
+      <div style="font-size: 24px; text-align: left; line-height: 2.0;">
+        「今日の予定は？」→ カレンダーからスケジュールを確認<br>
+        「〇〇について教えて」→ 知りたい情報をすぐに検索<br>
+        「これ覚えておいて」→ メモを記録、リマインダー設定<br>
+        「メール書いて」→ 文章を作成して送信<br>
+        「英語で何て言う？」→ リアルタイム翻訳<br>
+        「電気消して」→ スマートホームを操作<br>
+        「タクシー呼んで」→ 配車サービスに連携<br>
+        「いつもの音楽かけて」→ 好みを学習して再生
       </div>
     </div>
   </div>
