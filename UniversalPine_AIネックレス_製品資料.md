@@ -46,7 +46,7 @@
     <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 30px;">開発状況</div>
       <div style="font-size: 36px; font-weight: bold; margin-bottom: 40px; font-family: monospace;">
-        [████████████░░░░░░░░] 60%
+        [██████████████░░░░░░] 70%
       </div>
       <div style="font-size: 24px; text-align: left; line-height: 2.2;">
         ✅ 企画・設計 - 2025年 完了<br>
