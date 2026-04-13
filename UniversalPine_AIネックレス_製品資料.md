@@ -44,6 +44,24 @@
 <div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
+      <div style="font-size: 32px; margin-bottom: 30px;">実用例</div>
+      <div style="font-size: 26px; text-align: left; line-height: 2.2;">
+        「今日の予定は？」→ スケジュールを確認<br>
+        「〇〇について教えて」→ 知りたい情報を検索<br>
+        「これ覚えておいて」→ メモを記録<br>
+        「メール書いて」→ 文章を作成<br>
+        「英語で何て言う？」→ 翻訳<br>
+        「電気消して」→ スマートホームを操作
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="page-break-after: always;"></div>
+
+<div style="height: 100vh; display: flex; flex-direction: column; position: relative;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 30px;">例 金田自動車さんの場合</div>
       <div style="font-size: 26px; text-align: left; line-height: 2.2;">
         「この警告灯の意味は？」→ 故障診断をサポート<br>
