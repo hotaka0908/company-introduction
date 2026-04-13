@@ -30,10 +30,11 @@
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center;">
       <div style="font-size: 32px; margin-bottom: 30px;">できること</div>
-      <div style="font-size: 28px; text-align: left; line-height: 2;">
-        🎤 音声会話 - 音声でAIに指示・質問し自然な会話が可能<br>
-        🔍 情報検索 - 知りたいことをすぐに音声で回答<br>
-        📝 メモ・リマインダー - 声で記録、必要なときに通知
+      <div style="font-size: 56px; font-weight: bold; margin-bottom: 40px;">「話しかけるだけ」</div>
+      <div style="font-size: 32px; line-height: 1.8;">
+        あなたの言葉を理解し、<br>
+        考え、答え、実行する。<br><br>
+        いつでもそばにいるAIパートナー
       </div>
     </div>
   </div>
