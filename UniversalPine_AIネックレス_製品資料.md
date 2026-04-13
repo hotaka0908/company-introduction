@@ -52,6 +52,11 @@
         「〇〇を日本語で何て言う？」→ 専門用語を翻訳<br>
         「ブレーキの仕組みを説明して」→ 技術知識を学習
       </div>
+      <div style="font-size: 22px; text-align: left; line-height: 1.8; margin-top: 40px; border-top: 1px solid #ccc; padding-top: 20px;">
+        【AI応答の仕組み】<br>
+        カメラかマイクで質問 → AIが知識＋社内マニュアル・会社情報を元に回答<br>
+        （早くて0.2秒、遅くても3秒以内）
+      </div>
     </div>
   </div>
 </div>
